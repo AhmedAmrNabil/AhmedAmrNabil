@@ -27,10 +27,10 @@
 
 ## ⭐ Featured Projects
 
-- [**frontend**](https://github.com/raven-swe/frontend) — Frontend project focused on modern web app development.
+- [**frontend**](https://github.com/raven-swe/frontend) — TypeScript frontend for the Raven SWE platform (https://raven.cmp27.space).
 - [**nix-config**](https://github.com/AhmedAmrNabil/nix-config) — My NixOS/dotfiles setup for reproducible development environments.
 - [**arena-rush**](https://github.com/AhmedAmrNabil/arena-rush) — C++ OpenGL wave-survival FPS built on a custom ECS engine.
-- [**jobesta**](https://github.com/AhmedAmrNabil/jobesta) — Full-stack project showcasing production-oriented web development.
+- [**jobesta**](https://github.com/AhmedAmrNabil/jobesta) — Full-stack job platform project focused on practical product and backend workflows.
 - [**DS4Windows-Vader4Pro**](https://github.com/AhmedAmrNabil/DS4Windows-Vader4Pro) — Controller tooling/customization work for DS4Windows.
 - [**brick-breaker-assembly**](https://github.com/AhmedAmrNabil/brick-breaker-assembly) — Brick breaker implemented in Assembly.
 
