@@ -10,8 +10,6 @@
 
 </div>
 
----
-
 ## 🚀 About Me
 
 - 🌐 I enjoy building **full-stack applications** with a strong product focus.
@@ -22,16 +20,16 @@
 ## 🧰 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts,react,nodejs,linux,git,githubactions,docker,nix,cmake,opengl,bash,vscode" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,vite,nodejs,express,postgres,linux,nix,bash,git,githubactions,docker,cmake,cpp,c,python" alt="Tech stack" />
 </div>
 
 ## ⭐ Featured Projects
 
-- [**frontend**](https://github.com/raven-swe/frontend) — TypeScript frontend for the Raven SWE platform ([raven.cmp27.space](https://raven.cmp27.space)).
-- [**nix-config**](https://github.com/AhmedAmrNabil/nix-config) — NixOS and dotfiles configuration for reproducible development environments.
+- [**Raven frontend**](https://github.com/raven-swe/frontend) — Nuxt4 frontend for the Raven SWE platform ([raven.cmp27.space](https://raven.cmp27.space)).
+- [**nix-config**](https://github.com/AhmedAmrNabil/nix-config) — NixOS and dotfiles configuration for desktop, laptop and wsl.
 - [**arena-rush**](https://github.com/AhmedAmrNabil/arena-rush) — C++ OpenGL wave-survival FPS built on a custom ECS engine.
 - [**jobesta**](https://github.com/AhmedAmrNabil/jobesta) — Full-stack job platform project focused on practical product and backend workflows.
-- [**DS4Windows-Vader4Pro**](https://github.com/AhmedAmrNabil/DS4Windows-Vader4Pro) — Controller tooling/customization work for DS4Windows.
+- [**DS4Windows-Vader4Pro**](https://github.com/AhmedAmrNabil/DS4Windows-Vader4Pro) — Fork of DS4Windows with support for the Vader 4 Pro controller.
 - [**brick-breaker-assembly**](https://github.com/AhmedAmrNabil/brick-breaker-assembly) — Brick breaker implemented in Assembly.
 
 ## 📊 GitHub Analytics
@@ -39,6 +37,7 @@
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=AhmedAmrNabil&show_icons=true&theme=github_dark&hide_border=true" alt="Ahmed's GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAmrNabil&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedAmrNabil&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 
 ## Connect With Me
