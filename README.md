@@ -2,7 +2,7 @@
 
 # Hi, I'm Ahmed Amr Nabil 👋
 
-### C++ Developer • Graphics & Systems Enthusiast • Problem Solver
+### Full-Stack & C++ Developer • DevOps/CI-CD Enthusiast • NixOS User
 
 <a href="https://github.com/AhmedAmrNabil">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1200&color=2F81F7&center=true&vCenter=true&width=600&lines=Building+fast+and+fun+software;C%2B%2B%2C+OpenGL%2C+Game+Development;Always+learning+something+new" alt="Typing animation" />
@@ -16,21 +16,23 @@
 
 - 🎮 I enjoy building **graphics-heavy and game development projects**.
 - 🧠 I like working on **algorithms, systems, and performance-focused code**.
-- 🌱 I’m currently exploring deeper topics in **engine architecture** and **modern C++**.
-- 🤝 Open to collaborating on interesting **C++ / tooling / graphics** projects.
+- 🌱 I’m currently exploring deeper topics in **full-stack engineering, DevOps, CI/CD, and NixOS**.
+- 🤝 Open to collaborating on interesting **full-stack, C++, and developer tooling** projects.
 
 ## 🧰 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,js,linux,git,cmake,opengl,bash,vscode" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts,react,nodejs,linux,git,githubactions,docker,nix,cmake,opengl,bash,vscode" alt="Tech stack" />
 </div>
 
 ## ⭐ Featured Projects
 
+- [**frontend**](https://github.com/raven-swe/frontend) — Frontend project focused on modern web app development.
+- [**nix-config**](https://github.com/AhmedAmrNabil/nix-config) — My NixOS/dotfiles setup for reproducible development environments.
 - [**arena-rush**](https://github.com/AhmedAmrNabil/arena-rush) — C++ OpenGL wave-survival FPS built on a custom ECS engine.
-- [**nix-config**](https://github.com/AhmedAmrNabil/nix-config) — My Nix-based dotfiles and development environment setup.
+- [**jobesta**](https://github.com/AhmedAmrNabil/jobesta) — Full-stack project showcasing production-oriented web development.
+- [**DS4Windows-Vader4Pro**](https://github.com/AhmedAmrNabil/DS4Windows-Vader4Pro) — Controller tooling/customization work for DS4Windows.
 - [**brick-breaker-assembly**](https://github.com/AhmedAmrNabil/brick-breaker-assembly) — Brick breaker implemented in Assembly.
-- [**TerminalSortingVisualiser**](https://github.com/AhmedAmrNabil/TerminalSortingVisualiser) — Terminal sorting visualizer in C++.
 
 ## 📊 GitHub Analytics
 
