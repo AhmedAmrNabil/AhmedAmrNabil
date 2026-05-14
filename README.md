@@ -1,16 +1,52 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**AhmedAmrNabil/AhmedAmrNabil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Ahmed Amr Nabil 👋
 
-Here are some ideas to get you started:
+### Full-Stack & C++ Developer • DevOps/CI-CD Enthusiast • NixOS User
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/AhmedAmrNabil">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1200&color=2F81F7&center=true&vCenter=true&width=600&lines=Building+full-stack+products;DevOps%2C+CI%2FCD%2C+and+automation;NixOS+and+reproducible+environments" alt="Typing animation" />
+</a>
+
+</div>
+
+## 🚀 About Me
+
+- 🌐 I enjoy building **full-stack applications** with a strong product focus.
+- ⚙️ I like working on **automation, infrastructure, and performance-focused tooling**.
+- 🌱 I’m currently exploring deeper topics in **full-stack engineering, DevOps, CI/CD, and NixOS**.
+- 🤝 Open to collaborating on interesting **full-stack, C++, and developer tooling** projects.
+
+## 🧰 Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,vite,nodejs,express,postgres,linux,nix,bash,git,githubactions,docker,cmake,cpp,c,python" alt="Tech stack" />
+</div>
+
+## ⭐ Featured Projects
+
+- [**Raven frontend**](https://github.com/raven-swe/frontend) — Nuxt4 frontend for the Raven SWE platform ([raven.cmp27.space](https://raven.cmp27.space)).
+- [**nix-config**](https://github.com/AhmedAmrNabil/nix-config) — NixOS and dotfiles configuration for desktop, laptop and wsl.
+- [**arena-rush**](https://github.com/AhmedAmrNabil/arena-rush) — C++ OpenGL wave-survival FPS built on a custom ECS engine.
+- [**jobesta**](https://github.com/AhmedAmrNabil/jobesta) — Full-stack job platform project focused on practical product and backend workflows.
+- [**DS4Windows-Vader4Pro**](https://github.com/AhmedAmrNabil/DS4Windows-Vader4Pro) — Fork of DS4Windows with support for the Vader 4 Pro controller.
+- [**brick-breaker-assembly**](https://github.com/AhmedAmrNabil/brick-breaker-assembly) — Brick breaker implemented in Assembly.
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AhmedAmrNabil&show_icons=true&theme=github_dark&hide_border=true" alt="Ahmed's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAmrNabil&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedAmrNabil&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
+</div>
+
+## Connect With Me
+
+<div align="center">
+  <a href="https://github.com/AhmedAmrNabil">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/ahmed-amr-nabil/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
