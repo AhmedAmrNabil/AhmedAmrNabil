@@ -5,7 +5,7 @@
 ### Full-Stack & C++ Developer • DevOps/CI-CD Enthusiast • NixOS User
 
 <a href="https://github.com/AhmedAmrNabil">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1200&color=2F81F7&center=true&vCenter=true&width=600&lines=Building+fast+and+fun+software;C%2B%2B%2C+OpenGL%2C+Game+Development;Always+learning+something+new" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1200&color=2F81F7&center=true&vCenter=true&width=600&lines=Building+full-stack+products;DevOps%2C+CI%2FCD%2C+and+automation;NixOS+and+reproducible+environments" alt="Typing animation" />
 </a>
 
 </div>
@@ -14,8 +14,8 @@
 
 ## 🚀 About Me
 
-- 🎮 I enjoy building **graphics-heavy and game development projects**.
-- 🧠 I like working on **algorithms, systems, and performance-focused code**.
+- 🌐 I enjoy building **full-stack applications** with a strong product focus.
+- ⚙️ I like working on **automation, infrastructure, and performance-focused tooling**.
 - 🌱 I’m currently exploring deeper topics in **full-stack engineering, DevOps, CI/CD, and NixOS**.
 - 🤝 Open to collaborating on interesting **full-stack, C++, and developer tooling** projects.
 
